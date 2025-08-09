@@ -54,7 +54,7 @@ fish sea_food trout
 
 1. **Clone this repository**
 
-git clone https://github.com/yourusername/fish-classifier.git cd fish-classifier
+git clone https://github.com/AyushSinghRana15/Multi-Class-FishImage-Classification.git
 
 
 2. **Install dependencies**
