@@ -95,6 +95,7 @@ Run evaluation on the test set to get accuracy, precision, recall, F1-score, and
 Start the interactive web app:
 
 streamlit run fish_class.py
+or in any browser search the url fishclass.streamlit.app
 
 Features:
 - Upload or select sample fish images
